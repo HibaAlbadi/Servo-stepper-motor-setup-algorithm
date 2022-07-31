@@ -10,3 +10,11 @@ we need to
 Then we download the code to run it
 
 # Stepper motor setup algorithm
+We need to create an electronic circuit to operate the stepper motor
+
+- Arduino board
+- wireس
+- stepper motor
+- Motor drivers that acts as an interface between the motors and the control circuits
+- and battery
+Then we download the code to run it
